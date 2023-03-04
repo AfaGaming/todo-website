@@ -7,6 +7,6 @@ You may view the website here:
 # DOWNLOADING THE CODE
 Required Modules: This project uses node.js. Make sure to initialize your file using `npm init`
 
-express: `npm install express`
-body-parser: `npm install body-parser`
-EJS: `npm install ejs`
+1. express: `npm install express`
+2. body-parser: `npm install body-parser`
+3. EJS: `npm install ejs`
